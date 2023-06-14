@@ -17,3 +17,10 @@ npm start
 ./src/routes/index.js
 
 
+
+http://localhost:2000/api/v1/news/feed?s=Hello
+
+
+# change the port number 
+
+edit file "./config/.env"
